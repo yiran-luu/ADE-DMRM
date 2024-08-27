@@ -1,0 +1,60 @@
+fid:1
+LocMedian = 35
+fid:2
+LocMedian = 10
+fid:3
+LocMedian = 26
+fid:4
+LocMedian = 21
+fid:5
+LocMedian = 51
+fid:6
+LocMedian = 29
+fid:7
+LocMedian = 26
+fid:8
+LocMedian = 11
+fid:9
+LocMedian = 15
+fid:10
+LocMedian = 26
+fid:11
+LocMedian = 40
+fid:12
+LocMedian = 19
+fid:13
+LocMedian = 17
+fid:14
+LocMedian = 42
+fid:15
+LocMedian = 12
+fid:16
+LocMedian = 41
+fid:17
+LocMedian = 40
+fid:18
+LocMedian = 1
+fid:19
+LocMedian = 22
+fid:20
+LocMedian = 38
+fid:21
+LocMedian = 47
+fid:22
+LocMedian = 13
+fid:23
+LocMedian = 26
+fid:24
+LocMedian = 40
+fid:25
+LocMedian = 10
+fid:26
+LocMedian = 40
+fid:27
+LocMedian = 18
+fid:28
+LocMedian = 48
+fid:29
+LocMedian = 44
+fid:30
+LocMedian = 26
